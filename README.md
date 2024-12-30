@@ -34,7 +34,3 @@ It uses:
 - sort/: Contains the SORT algorithm code  
 - models/: Where license_plate_detector.pt is stored  
 - requirements.txt: Python dependencies  
-
-## License
-
-[MIT License](LICENSE)

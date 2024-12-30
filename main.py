@@ -36,7 +36,7 @@ def main():
     vehicle_detector, license_plate_detector = load_models()
 
     # Cria objeto de captura de vídeo
-    video_capture = cv2.VideoCapture('./sample_video.mp4')
+    video_capture = cv2.VideoCapture('./sample_video5.mp4')
 
     # Cria o rastreador de múltiplos objetos
     multi_object_tracker = Sort()
